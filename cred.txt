@@ -1,0 +1,2 @@
+Password = root 
+username = root
