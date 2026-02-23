@@ -1,2 +1,0 @@
-Password = root 
-username = root
